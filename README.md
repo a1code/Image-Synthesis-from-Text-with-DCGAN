@@ -22,3 +22,5 @@ The trained models can be accessed [here](https://drive.google.com/drive/folders
 Based on analyzing the generated images on the dev set we did hyperparameter tuning for our model. The results on dev set for the last round of model tuning can be accessed [here](https://drive.google.com/drive/folders/1wk-dBL39o2_OJWK2kqs82zU0keGJadwT?usp=sharing).   
 Finally, we run the generation on our held-out test set. The results can be accessed [here](https://drive.google.com/drive/folders/1oHnMIbz7cTV8eXt44XZtcuU7cGsQJDZb?usp=sharing).   
 Due to time constraints we did not quantitatively measure the quality of the generated images. Instead, we relied on human evaluation to check whether generated images are well conditioned on given text descriptions.
+
+<img width="451" alt="observations" src="https://user-images.githubusercontent.com/10013303/131036698-fa7b546f-ca5d-4a39-bdab-836098e3e096.png">
