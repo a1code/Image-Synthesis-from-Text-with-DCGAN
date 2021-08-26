@@ -10,9 +10,9 @@ For each image, we have text descriptions that can be accessed [here](https://dr
 Due to limited RAM/GPU memory on Google Colaboratory, we resized the RGB training images to 64 x 64 spatial size.
 
 **Implementation Summary**:  
-• Implemented DCGAN architecture for T2I using PyTorch and trained the model on   
-• Implemented modules for 
-• Setup the d  
+• Implemented the DC-GAN architecture in PyTorch and trained the model with Oxford-102 flowers dataset for generating flower images from text captions.     
+• Wrote modules for ResNet-50 image encoder, multihead attention Transformer text encoder, transposed convolutions as generator and a CNN image discriminator for joint training.   
+• Experimented with an embedding loss formulation between the input image encodings and the corresponding text embeddings while training as an attempt to learn better representations.    
 
 **Abstract**:  
 Text-to-Image (T2I) translation aims to generate a semantically consistent and visually realistic image conditioned on a textual description. Over the recent years, advancement in GAN architectures has showed very promising results for generative image problems in general, and T2I in particular. In this work, we focus on the task of learning text representations for T2I problem, such that they effectively capture the visual characters of the corresponding images. We try to jointly learn these embeddings with the GAN model parameters, instead of pre-training the encoder as proposed in most state-of-the-art models. We expect that this experiment will provide insights into learning representations that improve the generated image qualities from existing SoTA GAN-based T2I models.
