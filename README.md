@@ -1,0 +1,1 @@
+# Enhancing-Text-Embedding-for-GAN-based-Text-to-Image-Translation
