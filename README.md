@@ -1,6 +1,6 @@
 # Enhancing-Text-Embedding-for-GAN-based-Text-to-Image-Translation
 
-**Note**: Please refer Project_Description.pdf and ProjectSlides.pdf for details.   
+**Note**: Please refer ProjectDescription.pdf and ProjectSlides.pdf for details.   
 YouTube Link for the presentation - https://www.youtube.com/watch?v=e43h1iVaNPM  
 
 **Dataset** : [Oxford-102 flowers dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/).  
