@@ -1,8 +1,8 @@
 # Enhancing-Text-Embedding-for-GAN-based-Text-to-Image-Translation
 
-**Note**: Please refer [ProjectDescription.pdf](https://github.com/a1code/Enhancing-Text-Embedding-for-GAN-based-Text-to-Image-Translation/blob/main/ProjectDescription.pdf) and [ProjectSlides.pdf](https://github.com/a1code/Enhancing-Text-Embedding-for-GAN-based-Text-to-Image-Translation/blob/main/ProjectSlides.pdf) for details.   
+**Note**: Please refer [ProjectDescription.pdf](https://github.com/a1code/Image-Synthesis-from-Text-with-DCGAN/blob/main/ProjectDescription.pdf) and [ProjectSlides.pdf](https://github.com/a1code/Image-Synthesis-from-Text-with-DCGAN/blob/main/ProjectSlides.pdf) for details.   
 YouTube Link for the final presentation is [here](https://www.youtube.com/watch?v=e43h1iVaNPM).  
-Colab Notebook with the full code is [here](https://github.com/a1code/Enhancing-Text-Embedding-for-GAN-based-Text-to-Image-Translation/blob/main/code.ipynb).   
+Colab Notebook with the full code is [here](https://github.com/a1code/Image-Synthesis-from-Text-with-DCGAN/blob/main/code.ipynb).   
 
 **Dataset** : [Oxford-102 flowers dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/).  
 For our implementation, we used the images that can be accessed [here](https://drive.google.com/drive/folders/1uORr7J-8jWaovhcH7IhOzFIb2liV2w7j?usp=sharing).  
