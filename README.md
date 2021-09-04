@@ -1,4 +1,4 @@
-# Enhancing-Text-Embedding-for-GAN-based-Text-to-Image-Translation
+# Image-Synthesis-from-Text-with-DCGAN
 
 **Note**: Please refer [ProjectDescription.pdf](https://github.com/a1code/Image-Synthesis-from-Text-with-DCGAN/blob/main/ProjectDescription.pdf) and [ProjectSlides.pdf](https://github.com/a1code/Image-Synthesis-from-Text-with-DCGAN/blob/main/ProjectSlides.pdf) for details.   
 YouTube Link for the final presentation is [here](https://www.youtube.com/watch?v=e43h1iVaNPM).  
